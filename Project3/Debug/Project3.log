@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\slapjd\documents\visual studio 2017\projects\project3\project3\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\slapjd\documents\visual studio 2017\projects\project3\project3\source.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\slapjd\documents\visual studio 2017\projects\project3\project3\source.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\slapjd\documents\visual studio 2017\projects\project3\project3\source.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\slapjd\documents\visual studio 2017\projects\project3\project3\source.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\slapjd\documents\visual studio 2017\projects\project3\project3\source.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\slapjd\documents\visual studio 2017\projects\project3\project3\source.cpp(197): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\slapjd\documents\visual studio 2017\Projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\slapjd\documents\visual studio 2017\Projects\Project3\Debug\Project3.pdb (Partial PDB)
